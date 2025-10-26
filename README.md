@@ -60,7 +60,7 @@ I am a Junior Fullstack Developer skilled in HTML5, CSS3, JavaScript, TypeScript
 - CSS3 (Grid, SCSS/SASS)
 - JavaScript, TypeScript
 - React.js (Redux, Router)
-- Swiper.js, Accordion. js
+- Swiper.js, Accordion.js
 
 **Backend:**
 
@@ -72,7 +72,7 @@ I am a Junior Fullstack Developer skilled in HTML5, CSS3, JavaScript, TypeScript
 - Git, GitHub, Git Flow
 - Postman
 - Swagger / OpenAPI
-- Versel, Render
+- Vercel, Render
 
 ### 📫 Contact Me
 
@@ -82,6 +82,5 @@ I am a Junior Fullstack Developer skilled in HTML5, CSS3, JavaScript, TypeScript
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kostyaslob&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kostyaslob&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kostyaslob&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&hide_title=false&card_width=300&line_height=30&show_streak=true&hide=issues,contribs)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaslob&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
