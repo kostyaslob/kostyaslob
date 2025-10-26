@@ -1,7 +1,5 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! I'm Kostya Slobodianiuk
 
-## Fullstack Developer
-
 I am a Junior Fullstack Developer skilled in HTML5, CSS3, JavaScript, TypeScript, React.js and Node.js, currently learning Next.js and Tailwind. I am a responsible team player, think critically, and always meet deadlines. I have experience in both team and individual projects. I am committed to lifelong learning and constantly improving my skills and knowledge.
 
 ### 🛠️ Tech Skills
