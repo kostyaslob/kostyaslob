@@ -1,11 +1,6 @@
-# Hi there 👋
-I'm Kostya, a Junior Fullstack Developer specializing in React and Node.js.
+<p align="center">
+  <img src="./wave.gif" width="96" alt="waving hand" />
+</p>
 
-## 🔧 Technologies & Tools
-- HTML5, CSS3 (SCSS/SASS, Flexbox, Grid)
-- JavaScript, TypeScript
-- React.js, Node.js, Express, MongoDB
-- Git, GitHub, Postman
-
-## 🌱 Currently learning
-Next.js, Tailwind CSS
+<h1 align="center">Hello! I'm Kostya Slobodianiuk</h1>
+<p align="center">Junior Fullstack Developer • HTML, CSS, JavaScript, React, Node.js</p>
