@@ -102,18 +102,13 @@ Features include user registration, login, logout, contacts CRUD operations, sea
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kostyaslob&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&hide_title=false&card_width=300&line_height=30&show_streak=true&hide=issues)<br/>
+![](https://awesome-github-stats.azurewebsites.net/user-stats/kostyaslob?cardType=level&preferLogin=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaslob&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/top-langs/kostyaslob?theme=dark" alt="Top Languages" width="350"/>
+</p>
 
 <p align="center">
-
-<a href="https://github.com/kostyaslob">
-  <img src="https://github-readme-stats.vercel.app/api?username=kostyaslob&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&hide_title=false&card_width=300&line_height=30&show_streak=true&hide=issues" alt="GitHub Stats" width="350"/>
-</a>
-
-<a href="https://github.com/kostyaslob">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaslob&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="350"/>
-</a>
-
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=kostyaslob&theme=aura_dark&layout=compact" alt="Top Languages" width="350"/>
 </p>
