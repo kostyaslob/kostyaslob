@@ -94,7 +94,7 @@ Features include user registration, login, logout, contacts CRUD operations, sea
 
 
 
-### 📫 Contact Me
+### 📫 Contacts
 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kostyaslob@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostya-slobodianiuk)
@@ -104,3 +104,16 @@ Features include user registration, login, logout, contacts CRUD operations, sea
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kostyaslob&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&hide_title=false&card_width=300&line_height=30&show_streak=true&hide=issues)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaslob&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="center">
+
+<a href="https://github.com/kostyaslob">
+  <img src="https://github-readme-stats.vercel.app/api?username=kostyaslob&show_icons=true&theme=aura_dark&count_private=true&include_all_commits=true&hide_title=false&card_width=300&line_height=30&show_streak=true&hide=issues" alt="GitHub Stats" width="350"/>
+</a>
+
+<a href="https://github.com/kostyaslob">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaslob&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="350"/>
+</a>
+
+</p>
