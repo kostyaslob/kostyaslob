@@ -83,7 +83,7 @@ The app allows users to browse a catalog of cars using filtering by brand, price
 
 
 #### 📞 **[Contacts Manager](https://github.com/kostyaslob/goit-react-hw-08)** — Personal Contact Book 
-**Tech:** React · Redux Toolkit · Formik · Yup · Axios · React Router <br/>
+**Tech:** React · Redux Toolkit · React Router · Formik · Yup · Axios  <br/>
 Features include user registration, login, logout, contacts CRUD operations, search by name or phone number, and form validation.
 
 
@@ -103,12 +103,5 @@ Features include user registration, login, logout, contacts CRUD operations, sea
 
 ### 📊 GitHub Stats:
 ![](https://awesome-github-stats.azurewebsites.net/user-stats/kostyaslob?cardType=level&preferLogin=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaslob&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-academic.vercel.app/api/top-langs/?username=kostyaslob&layout=donut)
 
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/top-langs/kostyaslob?theme=dark" alt="Top Languages" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=kostyaslob&theme=aura_dark&layout=compact" alt="Top Languages" width="350"/>
-</p>
