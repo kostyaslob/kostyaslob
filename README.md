@@ -74,6 +74,26 @@ I am a Junior Fullstack Developer skilled in HTML5, CSS3, JavaScript, TypeScript
 - Swagger / OpenAPI
 - Vercel, Render
 
+### 🚀 Featured Projects 
+
+#### 🚗 **[RentalCar](https://github.com/kostyaslob/RentalCar)** — Car Rental Platform  
+**Tech:** React · Redux Toolkit · React Router · Styled-Components · MockAPI <br/>
+The app allows users to browse a catalog of cars using filtering by brand, price, mileage, view detailed information, add favorites, and book a car online.
+
+
+
+#### 📞 **[Contacts Manager](https://github.com/kostyaslob/goit-react-hw-08)** — Personal Contact Book 
+**Tech:** React · Redux Toolkit · Formik · Yup · Axios · React Router <br/>
+Features include user registration, login, logout, contacts CRUD operations, search by name or phone number, and form validation.
+
+
+### 🗣️ Languages
+
+![English Intermediate](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge&logo=google-translate&logoColor=white)
+![Ukrainian Native](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&logo=google-translate&logoColor=white)
+
+
+
 ### 📫 Contact Me
 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kostyaslob@gmail.com)
